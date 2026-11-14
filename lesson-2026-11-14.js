@@ -17,7 +17,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "予約が要る",
       "example": "この手続きには身分証が要ります。",
       "exampleKana": "このてつづきにはみぶんしょうがいります。",
-      "exampleZh": ""
+      "exampleZh": "办理这个手续需要身份证件。"
     },
     {
       "word": "踊る",
@@ -27,7 +27,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "音楽に合わせて踊る",
       "example": "友達は音楽を聞きながら踊っています。",
       "exampleKana": "ともだちはおんがくをききながらおどっています。",
-      "exampleZh": ""
+      "exampleZh": "朋友正一边听音乐一边跳舞。"
     },
     {
       "word": "通う",
@@ -37,7 +37,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "学校に通う",
       "example": "妹は電車で学校に通っています。",
       "exampleKana": "いもうとはでんしゃでがっこうにかよっています。",
-      "exampleZh": ""
+      "exampleZh": "妹妹乘电车上学。"
     },
     {
       "word": "困る",
@@ -47,7 +47,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "返事に困る",
       "example": "道が分からなくて困りました。",
       "exampleKana": "みちがわからなくてこまりました。",
-      "exampleZh": ""
+      "exampleZh": "因为不认识路而犯难了。"
     },
     {
       "word": "叩く",
@@ -57,7 +57,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "ドアを叩く",
       "example": "部屋に入る前にドアを軽く叩きます。",
       "exampleKana": "へやにはいるまえにドアをかるくたたきます。",
-      "exampleZh": ""
+      "exampleZh": "进房间前轻轻敲门。"
     },
     {
       "word": "集まる",
@@ -67,7 +67,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "人が集まる",
       "example": "昼休みに学生が庭に集まります。",
       "exampleKana": "ひるやすみにがくせいがにわにあつまります。",
-      "exampleZh": ""
+      "exampleZh": "午休时学生们聚集在院子里。"
     },
     {
       "word": "喧嘩する",
@@ -77,7 +77,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "友達と喧嘩する",
       "example": "子供の時、兄とよく喧嘩しました。",
       "exampleKana": "こどものとき、あにとよくけんかしました。",
-      "exampleZh": ""
+      "exampleZh": "小时候经常和哥哥吵架。"
     },
     {
       "word": "利用する",
@@ -87,7 +87,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "図書館を利用する",
       "example": "休日はよく図書館を利用しています。",
       "exampleKana": "きゅうじつはよくとしょかんをりようしています。",
-      "exampleZh": ""
+      "exampleZh": "休息日经常使用图书馆。"
     },
     {
       "word": "相談する",
@@ -97,7 +97,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "先生に相談する",
       "example": "進路について先生に相談しました。",
       "exampleKana": "しんろについてせんせいにそうだんしました。",
-      "exampleZh": ""
+      "exampleZh": "就升学方向咨询了老师。"
     },
     {
       "word": "看病する",
@@ -107,7 +107,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "家族を看病する",
       "example": "母が病気の時、父が看病していました。",
       "exampleKana": "ははがびょうきのとき、ちちがかんびょうしていました。",
-      "exampleZh": ""
+      "exampleZh": "妈妈生病时爸爸一直在照顾她。"
     },
     {
       "word": "詩",
@@ -117,7 +117,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "詩を書く",
       "example": "学生の時、短い詩を書きました。",
       "exampleKana": "がくせいのとき、みじかいしをかきました。",
-      "exampleZh": ""
+      "exampleZh": "学生时代写过短诗。"
     },
     {
       "word": "曲",
@@ -127,7 +127,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "好きな曲",
       "example": "この曲を聞くと学生時代を思い出します。",
       "exampleKana": "このきょくをきくとがくせいじだいをおもいだします。",
-      "exampleZh": ""
+      "exampleZh": "听到这首曲子就想起学生时代。"
     },
     {
       "word": "赤字",
@@ -137,7 +137,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "赤字になる",
       "example": "先月は店の売り上げが少なくて赤字でした。",
       "exampleKana": "せんげつはみせのうりあげがすくなくてあかじでした。",
-      "exampleZh": ""
+      "exampleZh": "上个月店里销售额低，出现了亏损。"
     },
     {
       "word": "黒字",
@@ -147,7 +147,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "黒字になる",
       "example": "今年はやっと黒字になりました。",
       "exampleKana": "ことしはやっとくろじになりました。",
-      "exampleZh": ""
+      "exampleZh": "今年终于盈利了。"
     },
     {
       "word": "過労",
@@ -157,7 +157,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "過労で倒れる",
       "example": "過労を防ぐために休みを取ります。",
       "exampleKana": "かろうをふせぐためにやすみをとります。",
-      "exampleZh": ""
+      "exampleZh": "为了避免过劳，我会休假。"
     },
     {
       "word": "企画",
@@ -167,7 +167,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "企画を考える",
       "example": "新しい企画について話し合っています。",
       "exampleKana": "あたらしいきかくについてはなしあっています。",
-      "exampleZh": ""
+      "exampleZh": "正在讨论新企划。"
     },
     {
       "word": "日記",
@@ -177,7 +177,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "日記をつける",
       "example": "寝る前に短い日記を書いています。",
       "exampleKana": "ねるまえにみじかいにっきをかいています。",
-      "exampleZh": ""
+      "exampleZh": "睡前写简短的日记。"
     },
     {
       "word": "部品",
@@ -187,7 +187,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "部品を交換する",
       "example": "壊れた部品を交換しました。",
       "exampleKana": "こわれたぶひんをこうかんしました。",
-      "exampleZh": ""
+      "exampleZh": "更换了损坏的零件。"
     },
     {
       "word": "売り上げ",
@@ -197,7 +197,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "売り上げが伸びる",
       "example": "週末は店の売り上げが増えます。",
       "exampleKana": "しゅうまつはみせのうりあげがふえます。",
-      "exampleZh": ""
+      "exampleZh": "周末店里的销售额会上升。"
     },
     {
       "word": "残業",
@@ -207,7 +207,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "残業をする",
       "example": "昨日は残業していたので帰りが遅くなりました。",
       "exampleKana": "きのうはざんぎょうしていたのでかえりがおそくなりました。",
-      "exampleZh": ""
+      "exampleZh": "昨天加班了，所以回家晚了。"
     },
     {
       "word": "出勤",
@@ -217,7 +217,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "出勤する",
       "example": "雨の日も電車で出勤しています。",
       "exampleKana": "あめのひもでんしゃでしゅっきんしています。",
-      "exampleZh": ""
+      "exampleZh": "下雨天也乘电车上班。"
     },
     {
       "word": "信号",
@@ -227,7 +227,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "信号を渡る",
       "example": "信号が青になってから渡ってください。",
       "exampleKana": "しんごうがあおになってからわたってください。",
-      "exampleZh": ""
+      "exampleZh": "请等绿灯亮了再过马路。"
     },
     {
       "word": "税金",
@@ -237,7 +237,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "税金を払う",
       "example": "税金について会社に確認しました。",
       "exampleKana": "ぜいきんについてかいしゃにかくにんしました。",
-      "exampleZh": ""
+      "exampleZh": "向公司确认了税金问题。"
     },
     {
       "word": "報告",
@@ -247,7 +247,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "上司に報告する",
       "example": "調査が終わった時、上司に報告しました。",
       "exampleKana": "ちょうさがおわったとき、じょうしにほうこくしました。",
-      "exampleZh": ""
+      "exampleZh": "调查结束时向上司汇报了。"
     },
     {
       "word": "お年寄り",
@@ -257,7 +257,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "お年寄りに席を譲る",
       "example": "電車でお年寄りに席を譲りました。",
       "exampleKana": "でんしゃでおとしよりにせきをゆずりました。",
-      "exampleZh": ""
+      "exampleZh": "在电车上给老人让了座。"
     },
     {
       "word": "取引先",
@@ -267,7 +267,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "取引先に連絡する",
       "example": "午後は取引先と会議があります。",
       "exampleKana": "ごごはとりひきさきとかいぎがあります。",
-      "exampleZh": ""
+      "exampleZh": "下午要和客户开会。"
     },
     {
       "word": "大勢",
@@ -277,7 +277,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "大勢の人",
       "example": "公園には大勢の人が集まっていました。",
       "exampleKana": "こうえんにはおおぜいのひとがあつまっていました。",
-      "exampleZh": ""
+      "exampleZh": "公园里聚集了很多人。"
     },
     {
       "word": "アルバイト",
@@ -287,7 +287,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "アルバイトをする",
       "example": "大学の時、喫茶店でアルバイトをしていました。",
       "exampleKana": "だいがくのとき、きっさてんであるばいとをしていました。",
-      "exampleZh": ""
+      "exampleZh": "大学时在咖啡店打过工。"
     },
     {
       "word": "有給休暇",
@@ -297,7 +297,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "有給休暇を取る",
       "example": "来週、有給休暇を取る予定です。",
       "exampleKana": "らいしゅう、ゆうきゅうきゅうかをとるよていです。",
-      "exampleZh": ""
+      "exampleZh": "下周打算休带薪假。"
     },
     {
       "word": "説明",
@@ -307,7 +307,7 @@ window.LESSONS["2026-11-14"]={
       "collocation": "説明を聞く",
       "example": "説明を聞きながらメモを取ってください。",
       "exampleKana": "せつめいをききながらめもをとってください。",
-      "exampleZh": ""
+      "exampleZh": "请一边听说明一边记笔记。"
     }
   ],
   "listening": {
